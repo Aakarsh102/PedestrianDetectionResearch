@@ -1,0 +1,9 @@
+TRAINING DATA INFO
+  Pedestrian images:        7501
+  Non-pedestrian images:    7500
+  Total images:             15001
+
+SVM MODEL INFO
+  Testing set size:         12000
+  Training set size:        3001
+  Model Accuracy:           92.60%
